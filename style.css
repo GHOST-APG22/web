@@ -1,0 +1,506 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header-parent {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+ul {
+    display: flex;
+    gap: 60px;
+    list-style: none;
+}
+
+.btn button {
+    /* Rectangle 39 */
+
+
+width: 120px;
+height: 50.41px;
+
+/* Secondary */
+background: #FF7A50;
+/* Clor shadow */
+box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+border-radius: 5px;
+border: none;
+
+}
+
+.right {
+    display: flex;
+    gap: 59px;
+    height: 100px;
+    align-items: center;
+}
+
+.header-parent {
+    display: flex;
+    gap: 59px;
+    height: 100px;
+    align-items: center;
+}
+
+
+ul :hover {
+    /* Home */
+    
+
+
+color: #FF6838;
+
+
+}
+
+
+
+h1 span {
+    color: #FF7A50;
+}
+
+h1 {
+    /* super fast Food delivery service */
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 66px;
+line-height: 78px;
+text-transform: capitalize;
+
+color: #363853;
+
+
+    
+}
+
+.bir-text {
+    /* We provide super fast-delivery service. Let’s use our services right now and get discounts of up to 50% */
+
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+text-transform: capitalize;
+
+/* Primary */
+color: #363853;
+
+
+}
+
+
+.explore-btn button {
+    /* Rectangle 39 */
+    width: 163px;
+    height: 50.41px;
+    /* Secondary */
+    background: #FF7A50;
+    /* Drop Shadow */
+    box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+    border-radius: 5px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    /* identical to box height */
+    /* main back white */
+    color: #FFFFFF;
+    border: none;
+}
+
+.bir-buttn {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.download {
+    /* Download App */
+
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+text-align: center;
+text-decoration-line: underline;
+
+/* Primary */
+color: black;
+
+
+}
+
+.bir-text {
+    margin-top: 25px;
+    margin-bottom: 45px;
+}
+
+.bir-right img {
+    width:650px ;
+
+}
+
+.bir-content {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    justify-content: center;
+}
+
+h2 {
+    /* Stay at home, we will Provide good food */
+
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 50px;
+/* or 139% */
+text-transform: capitalize;
+
+/* Secondary */
+
+
+
+}
+
+h2 span {
+    /* Stay at home, we will Provide good food */
+
+color: #FF7A50;
+
+
+}
+
+.ikki-text {
+    /* We provide tasty food and superfast delivery at your home. Let’s use our services right now and get discounts of up to 50%. */
+
+width: 449px;
+height: 103px;
+left: 855px;
+top: 1271px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+color: #363853;
+
+opacity: 0.9;
+
+}
+
+.ikki-btn button {
+    color: #FF7A50;
+    /* Rectangle 51 */
+
+width: 176px;
+height: 58px;
+left: 855px;
+top: 1515px;
+
+/* Secondary */
+background: #FF7A50;
+/* Clor shadow */
+box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+border-radius: 30px 30px 1px 30px;
+/* See more */
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+border: none;
+
+
+}
+
+.ikki-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ikki-text {
+    margin-top: 95px;
+    margin-bottom: 141px;
+}
+
+.titel span {
+    color: #FF7A50;
+}
+
+.titel {
+    /* Top Food restaurant */
+text-align: center;
+margin-top: 45px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 30px;
+/* identical to box height, or 83% */
+text-transform: capitalize;
+
+/* Primary */
+color: #363853;
+
+
+}
+
+.card1 {
+    width: 361px;
+height: 417px;
+
+
+
+}
+
+.titel-card {
+    /* Blaze Pizza */
+
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+
+/* Primary */
+color: #363853;
+margin-top: 23px;
+margin-left: 20px;
+
+
+}
+
+.info {
+    display: flex;
+    gap: 10px;
+    height: 30px;
+    align-items: center;
+    margin-top: 14px;
+    margin-left: 20px;
+}
+
+.text-clock {
+    /* 11.00 AM - 10.00 PM */
+
+
+font-family: 'Rubik';
+font-style: normal;
+
+font-size: 18px;
+
+/* identical to box height, or 167% */
+
+/* Primary */
+color: #363853;
+
+opacity: 0.9;
+
+}
+
+.card-btn button {
+    /* Rectangle 55 */
+
+width: 79px;
+height: 33px;
+
+
+
+/* Secondary */
+background: #FF7A50;
+box-shadow: 0px 5px 12px rgba(255, 104, 56, 0.19);
+border-radius: 20px 20px 0px 20px;
+border: none;
+margin-left: 30px;
+
+}
+
+.card-ota {
+    display: flex;
+    gap: 43px;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+.tort-ttl span {
+    color: #FF7A50;
+}
+
+
+.tort-ttl  {
+    /* Download Our Mobile App */
+
+width: 454px;
+height: 50px;
+left: 176px;
+top: 2507px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 50px;
+/* identical to box height, or 139% */
+text-transform: capitalize;
+
+/* Primary */
+color: #363853;
+
+
+}
+
+.tort-txt {
+    /* It's all at your fingertips -- the restaurants you love. Find the right food to suit your mood, and make the first bite last. Go ahead, download app and get 50% discount */
+
+width: 538px;
+height: 94px;
+left: 176px;
+top: 2587px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+color: #363853;
+
+opacity: 0.9;
+margin-top: 30px;
+margin-bottom: 30px;
+
+}
+
+.tort-img {
+    display: flex;
+    gap: 53px;
+}
+
+.tort-content {
+    display: flex;
+    align-items: center;
+    margin-top: 162px;
+    justify-content: center;
+}
+
+.box-input {
+    width: 1170px;
+height: 312px;
+background: #FF7A50;
+border-radius: 10px;
+margin-top: 110px;
+}
+
+.input-txt {
+    /* Subscribe to get the Latest Offer */
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+
+}
+
+form input  {
+    /* Rectangle 627 */
+
+width: 838.5px;
+height: 78px;
+left: 303.75px;
+top: 3156.45px;
+
+background: #FFFFFF;
+box-shadow: 10px 24px 54px rgba(0, 0, 0, 0.07);
+border-radius: 70px;
+margin-top: 73px;
+border: none;
+
+
+
+}
+
+::placeholder{
+    /* Enter your email addres */
+
+width: 207px;
+height: 29px;
+left: 347px;
+top: 3181px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+text-align: center;
+
+/* Primary */
+color: #363853;
+
+opacity: 0.9;
+
+}
+
+.div {
+    text-align: center;
+}
+
+.fot-ota {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left {
+    display: flex;
+    gap: 52px;
+}
+
+.left a {
+    text-decoration: none;
+    color: black;
+}
+
+
